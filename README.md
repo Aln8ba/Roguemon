@@ -8,7 +8,7 @@
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
+<img src="https://github.com/Aln8ba/Roguemon/blob/main/Muk-a4.jpg"> | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
 
 # DARK <img src="https://github.com/user-attachments/assets/bfc3b554-10e4-413c-8c12-b6fa0d83bf1f" width="28" height="28">
 
