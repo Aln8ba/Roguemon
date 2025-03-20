@@ -8,7 +8,7 @@
 
 ASCENSION 1 | ASCENSION 2 | ASCENSION 3
 -|-|-
-https://media.discordapp.net/attachments/1334396918066970624/1351397912005050468/Capture_decran_2025-03-17_233038.jpg?ex=67dc3521&is=67dae3a1&hm=a9c8adf459430297c292913cdcd7d87c1f03a26f85d63aa47ddec723b32bf0b3&=&format=webp
+A1 PB Image Pasted here. PB text and Attempt Number here. | A2 PB Image Pasted here. PB text and Attempt Number here. | A3 PB Image Pasted here. PB text and Attempt Number here.
 
 # DARK <img src="https://github.com/user-attachments/assets/bfc3b554-10e4-413c-8c12-b6fa0d83bf1f" width="28" height="28">
 
